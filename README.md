@@ -276,33 +276,7 @@ Analyzes product performance and profitability.
 
 ---
 
-# 📂 Repository Structure
 
-```
-Supply-Chain-Optimization-Dashboard
-│
-├── 📁 Dashboard
-│   └── Supply Chain Optimization Dashboard.pbix
-│
-├── 📁 Dataset
-│   └── Supply Chain Dataset.xlsx
-│
-├── 📁 Python
-│   ├── Data Cleaning.ipynb
-│   ├── Data Merging.ipynb
-│   └── Feature Engineering.ipynb
-│
-├── 📁 Images
-│   ├── Executive Dashboard.png
-│   ├── Sales Dashboard.png
-│   ├── Inventory Dashboard.png
-│   ├── Delivery Dashboard.png
-│   └── Product Dashboard.png
-│
-└── README.md
-```
-
----
 
 #  Future Enhancements
 

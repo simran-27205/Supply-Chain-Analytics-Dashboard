@@ -1,6 +1,6 @@
 # 📦 Supply Chain Optimization Dashboard using Python, Excel & Power BI
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents an **end-to-end Supply Chain Analytics solution** built using **Python, Microsoft Excel, and Microsoft Power BI**. The objective was to transform raw supply chain data into meaningful business insights by performing data cleaning, integration, analysis, and interactive dashboard development.
 
@@ -8,7 +8,7 @@ Unlike a dashboard-only project, this solution follows the complete Data Analyti
 
 ---
 
-# 🎯 Business Objective
+#  Business Objective
 
 The objective of this project is to help supply chain managers monitor business performance by analyzing:
 
@@ -23,7 +23,7 @@ The dashboard enables business users to identify trends, monitor KPIs, optimize 
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 | Tool | Purpose |
 |------|----------|
@@ -36,9 +36,9 @@ The dashboard enables business users to identify trends, monitor KPIs, optimize 
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
-## 📥 Step 1: Data Collection
+##  Step 1: Data Collection
 
 Collected two separate datasets:
 
@@ -49,7 +49,7 @@ Both datasets contained different business information and required integration 
 
 ---
 
-## 🧹 Step 2: Data Cleaning using Python
+##  Step 2: Data Cleaning using Python
 
 Performed data preprocessing using **Python (Pandas)** by:
 
@@ -62,7 +62,7 @@ Performed data preprocessing using **Python (Pandas)** by:
 
 ---
 
-## 🔗 Step 3: Data Integration
+##  Step 3: Data Integration
 
 Merged the **Inventory Dataset** and **Sales Dataset** using **Product ID** to create a unified dataset containing complete business information.
 
@@ -79,7 +79,7 @@ The final dataset includes:
 
 ---
 
-## ⚙️ Step 4: Feature Engineering
+##  Step 4: Feature Engineering
 
 Created additional business metrics using Python, including:
 
@@ -92,7 +92,7 @@ Created additional business metrics using Python, including:
 
 ---
 
-## 📑 Step 5: Data Validation using Excel
+##  Step 5: Data Validation using Excel
 
 Before importing the data into Power BI, Microsoft Excel was used to verify the cleaned dataset by:
 
@@ -103,7 +103,7 @@ Before importing the data into Power BI, Microsoft Excel was used to verify the 
 
 ---
 
-## 📊 Step 6: Data Modeling in Power BI
+##  Step 6: Data Modeling in Power BI
 
 Imported the cleaned dataset into Power BI and performed:
 
@@ -115,7 +115,7 @@ Imported the cleaned dataset into Power BI and performed:
 
 ---
 
-## 🧮 Step 7: DAX Measures
+##  Step 7: DAX Measures
 
 Created various business measures, including:
 
@@ -139,9 +139,9 @@ Created various business measures, including:
 
 ---
 
-# 📊 Dashboard Pages
+#  Dashboard Pages
 
-## 📌 1. Executive Dashboard
+##  1. Executive Dashboard
 
 Provides a high-level overview of overall business performance.
 
@@ -162,7 +162,7 @@ Provides a high-level overview of overall business performance.
 
 ---
 
-## 📌 2. Sales Analysis Dashboard
+##  2. Sales Analysis Dashboard
 
 Analyzes sales performance across different business dimensions.
 
@@ -176,7 +176,7 @@ Analyzes sales performance across different business dimensions.
 
 ---
 
-## 📌 3. Inventory Analysis Dashboard
+##  3. Inventory Analysis Dashboard
 
 Focuses on inventory monitoring and stock optimization.
 
@@ -197,7 +197,7 @@ Focuses on inventory monitoring and stock optimization.
 
 ---
 
-## 📌 4. Delivery & Logistics Dashboard
+##  4. Delivery & Logistics Dashboard
 
 Monitors delivery performance and shipping efficiency.
 
@@ -217,7 +217,7 @@ Monitors delivery performance and shipping efficiency.
 
 ---
 
-## 📌 5. Product & Profitability Dashboard
+##  5. Product & Profitability Dashboard
 
 Analyzes product performance and profitability.
 
@@ -238,7 +238,7 @@ Analyzes product performance and profitability.
 
 ---
 
-# 📈 Key Business Insights
+#  Key Business Insights
 
 ✔️ Monitored overall sales and profitability.
 
@@ -256,7 +256,7 @@ Analyzes product performance and profitability.
 
 ---
 
-# 💼 Skills Demonstrated
+#  Skills Demonstrated
 
 - Data Cleaning
 - Data Integration
@@ -304,7 +304,7 @@ Supply-Chain-Optimization-Dashboard
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
 - Predictive Inventory Forecasting
 - Supplier Performance Analysis
